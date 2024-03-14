@@ -22,7 +22,6 @@ Below are the steps involved:
    3. Implement EarlyStoppingCallback and compute_metrics function for BLEU score calculation.
    4. Train the model, save the fine-tuned model, and tokenizer for future use.
  
-![image](https://github.com/LaurynArora1/CodeNebula/assets/79740749/9587afe7-149e-4985-80d4-2f27efadf43a)
 References:
 1. https://boa.cs.iastate.edu/stats/index.php
 2. https://huggingface.co/Salesforce/codet5-base-multi-sum

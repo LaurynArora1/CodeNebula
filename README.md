@@ -13,7 +13,7 @@ Below are the steps involved:
    1. Tokenize each code snippet using a pretrained RobertaTokenizer and generate a summary using a fine-tuned CodeT5 model.
    2. Calculate the BLEU score between the generated summary and the existing summary for each code snippet.
    3. Save the results, including the code snippet, existing summary, generated summary, and BLEU score, into a DataFrame.
-![image](https://github.com/LaurynArora1/CodeNebula/assets/79740749/0e63ac4b-1b8e-465a-8625-1cd8e6f72527)
+
 
 
 4. To fine-tune the model on the pre-processed dataset:

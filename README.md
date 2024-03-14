@@ -21,7 +21,8 @@ Below are the steps involved:
    2. Define training arguments, including batch size, epochs, and evaluation strategy.
    3. Implement EarlyStoppingCallback and compute_metrics function for BLEU score calculation.
    4. Train the model, save the fine-tuned model, and tokenizer for future use.
- 
+![image](https://github.com/LaurynArora1/CodeNebula/assets/79740749/b2af04d6-80c5-4fcd-800a-aaa7de3ee847)
+
 References:
 1. https://boa.cs.iastate.edu/stats/index.php
 2. https://huggingface.co/Salesforce/codet5-base-multi-sum
